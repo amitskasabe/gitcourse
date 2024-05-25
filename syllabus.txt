@@ -1,0 +1,22 @@
+*What is version control system 
+*Need of version control system
+*What is git 
+*History of Git 
+*Git installation
+*Git configuration 
+*Git platforms
+*Basic git commands overview 
+*Making changes in project and tracking with git 
+*Checking status of git repository
+*Git commit 
+*git push 
+*Commit History
+*Understanding Commit Hashes 
+*git diff
+*Branching 
+*Merging branches 
+*Handling merge conflicts 
+*Working with remote branches 
+*Tracking branches 
+*Deleting branches 
+*Introduction 
